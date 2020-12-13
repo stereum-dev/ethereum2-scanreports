@@ -1,0 +1,11 @@
+stereum/beacon-base:buster
+pegasyseng/teku:20.12
+ethereum/client-go:v1.9.25
+grafana/grafana:7.3.5
+prysmaticlabs/prysm-beacon-chain:v1.0.4
+prysmaticlabs/prysm-slasher:v1.0.4
+prysmaticlabs/prysm-validator:v1.0.4
+sigp/lighthouse:v1.0.3
+attestant/vouch:1.0.1
+attestant/dirk:1.0.0
+prom/prometheus:v2.22.2
