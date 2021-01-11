@@ -1,11 +1,13 @@
 stereum/beacon-base:buster
-pegasyseng/teku:20.12
+stereum/nimbus:v1.0.6
+pegasyseng/teku:20.12.1
 ethereum/client-go:v1.9.25
-grafana/grafana:7.3.5
+grafana/grafana:7.3.6
+grafana/grafana-image-renderer:2.0.0
 prysmaticlabs/prysm-beacon-chain:v1.0.5
 prysmaticlabs/prysm-slasher:v1.0.5
 prysmaticlabs/prysm-validator:v1.0.5
-sigp/lighthouse:v1.0.4
-attestant/vouch:1.0.2
+sigp/lighthouse:v1.0.6
+attestant/vouch:1.0.3
 attestant/dirk:1.0.0
 prom/prometheus:v2.22.2
