@@ -1,5 +1,6 @@
 stereum/beacon-base:buster
 stereum/nimbus:v1.0.6
+stereum/lighthouse:v1.0.6
 pegasyseng/teku:20.12.1
 ethereum/client-go:v1.9.25
 grafana/grafana:7.3.6
