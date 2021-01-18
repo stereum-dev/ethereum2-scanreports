@@ -14,6 +14,9 @@ grafana/grafana-image-renderer:2.0.0
 prysmaticlabs/prysm-beacon-chain:v1.0.5
 prysmaticlabs/prysm-slasher:v1.0.5
 prysmaticlabs/prysm-validator:v1.0.5
+prysmaticlabs/prysm-beacon-chain:v1.1.0
+prysmaticlabs/prysm-slasher:v1.1.0
+prysmaticlabs/prysm-validator:v1.1.0
 sigp/lighthouse:v1.0.6
 attestant/vouch:1.0.3
 attestant/dirk:1.0.0
