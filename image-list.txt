@@ -22,4 +22,5 @@ sigp/lighthouse:v1.0.6
 sigp/lighthouse:v1.1.0
 attestant/vouch:1.0.3
 attestant/dirk:1.0.0
+attestant/dirk:1.0.1
 prom/prometheus:v2.22.2
