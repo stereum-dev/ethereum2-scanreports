@@ -4,11 +4,13 @@ stereum/lighthouse:v1.0.6-10
 stereum/lighthouse:v1.1.0-11
 stereum/init:buster
 stereum/lodestar:v0.12.0
+stereum/lodestar:v0.14.0-3
 stereum/prysm-beacon-chain:v1.1.0-13
 stereum/prysm-slasher:v1.1.0-13
 stereum/prysm-validator:v1.1.0-13
 pegasyseng/teku:20.12.1
 pegasyseng/teku:21.1.0
+pegasyseng/teku:21.1.1
 ethereum/client-go:v1.9.25
 grafana/grafana:7.3.7
 grafana/grafana-image-renderer:2.0.0
