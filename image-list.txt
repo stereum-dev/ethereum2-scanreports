@@ -11,6 +11,7 @@ stereum/prysm-beacon-chain:v1.1.0-13
 stereum/prysm-slasher:v1.1.0-13
 stereum/prysm-validator:v1.1.0-13
 stereum/teku:21.1.1-16
+stereum/teku:21.2.0-17
 pegasyseng/teku:20.12.1
 pegasyseng/teku:21.1.0
 pegasyseng/teku:21.1.1
