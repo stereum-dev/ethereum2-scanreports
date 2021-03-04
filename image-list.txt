@@ -17,6 +17,7 @@ pegasyseng/teku:21.1.0
 pegasyseng/teku:21.1.1
 consensys/teku:21.2.0
 ethereum/client-go:v1.9.25
+ethereum/client-go:v1.10.0
 grafana/grafana:7.3.7
 grafana/grafana-image-renderer:2.0.0
 prysmaticlabs/prysm-beacon-chain:v1.0.5
