@@ -18,6 +18,7 @@ pegasyseng/teku:21.1.1
 consensys/teku:21.2.0
 ethereum/client-go:v1.9.25
 ethereum/client-go:v1.10.0
+ethereum/client-go:v1.10.1
 grafana/grafana:7.3.7
 grafana/grafana:7.4.3
 grafana/grafana-image-renderer:2.0.0
@@ -33,6 +34,9 @@ prysmaticlabs/prysm-validator:v1.3.1
 prysmaticlabs/prysm-beacon-chain:v1.3.2
 prysmaticlabs/prysm-slasher:v1.3.2
 prysmaticlabs/prysm-validator:v1.3.2
+prysmaticlabs/prysm-beacon-chain:v1.3.3
+prysmaticlabs/prysm-slasher:v1.3.3
+prysmaticlabs/prysm-validator:v1.3.3
 sigp/lighthouse:v1.0.6
 sigp/lighthouse:v1.1.0
 sigp/lighthouse:v1.1.3
