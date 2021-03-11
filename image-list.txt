@@ -1,6 +1,7 @@
 stereum/beacon-base:buster
 stereum/nimbus:v1.0.6
 stereum/nimbus:v1.0.8-19
+stereum/nimbus:v1.0.10-20
 stereum/lighthouse:v1.0.6-10
 stereum/lighthouse:v1.1.0-11
 stereum/lighthouse:v1.1.3-16
