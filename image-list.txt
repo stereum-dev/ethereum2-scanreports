@@ -12,6 +12,7 @@ stereum/init:buster
 stereum/lodestar:v0.12.0
 stereum/lodestar:v0.14.0-3
 stereum/lodestar:v0.17.0-4
+stereum/lodestar:v0.17.0-5
 stereum/prysm-beacon-chain:v1.1.0-13
 stereum/prysm-slasher:v1.1.0-13
 stereum/prysm-validator:v1.1.0-13
