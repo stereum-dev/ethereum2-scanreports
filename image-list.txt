@@ -17,7 +17,7 @@ stereum/lodestar:v0.17.0-4
 stereum/lodestar:v0.17.0-5
 stereum/lodestar:v0.17.0-6
 stereum/lodestar:v0.18.0-7
-stereum/lodestar:v0.19.0-8
+stereum/lodestar:v0.19.0-9
 stereum/prysm-beacon-chain:v1.1.0-13
 stereum/prysm-slasher:v1.1.0-13
 stereum/prysm-validator:v1.1.0-13
@@ -66,3 +66,4 @@ prom/prometheus:v2.25.0
 statusim/nimbus-eth2:amd64-v1.0.10
 statusim/nimbus-eth2:amd64-v1.0.12
 chainsafe/lodestar:v0.17.0
+chainsafe/lodestar:v0.19.0
