@@ -4,6 +4,7 @@ stereum/nimbus:v1.0.8-19
 stereum/nimbus:v1.0.10-20
 stereum/nimbus:v1.0.12-23
 stereum/nimbus:v1.1.0-25
+stereum/nimbus:v1.2.0-26
 stereum/lighthouse:v1.0.6-10
 stereum/lighthouse:v1.1.0-11
 stereum/lighthouse:v1.1.3-16
@@ -74,5 +75,6 @@ prom/prometheus:v2.25.0
 statusim/nimbus-eth2:amd64-v1.0.10
 statusim/nimbus-eth2:amd64-v1.0.12
 statusim/nimbus-eth2:amd64-v1.1.0
+statusim/nimbus-eth2:amd64-v1.2.0
 chainsafe/lodestar:v0.17.0
 chainsafe/lodestar:v0.19.0
