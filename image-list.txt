@@ -39,10 +39,12 @@ consensys/teku:21.3.0
 consensys/teku:21.3.2
 consensys/teku:21.4.0
 consensys/teku:21.4.1
+consensys/teku:21.5.0
 ethereum/client-go:v1.9.25
 ethereum/client-go:v1.10.0
 ethereum/client-go:v1.10.1
 ethereum/client-go:v1.10.2
+ethereum/client-go:v1.10.3
 grafana/grafana:7.3.7
 grafana/grafana:7.4.3
 grafana/grafana-image-renderer:2.0.0
@@ -88,3 +90,4 @@ statusim/nimbus-eth2:amd64-v1.2.1
 chainsafe/lodestar:v0.17.0
 chainsafe/lodestar:v0.19.0
 chainsafe/lodestar:v0.20.0
+chainsafe/lodestar:v0.21.0
