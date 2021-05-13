@@ -69,6 +69,9 @@ prysmaticlabs/prysm-validator:v1.3.7
 prysmaticlabs/prysm-beacon-chain:v1.3.8
 prysmaticlabs/prysm-slasher:v1.3.8
 prysmaticlabs/prysm-validator:v1.3.8
+prysmaticlabs/prysm-beacon-chain:v1.3.9
+prysmaticlabs/prysm-slasher:v1.3.9
+prysmaticlabs/prysm-validator:v1.3.9
 sigp/lighthouse:v1.0.6
 sigp/lighthouse:v1.1.0
 sigp/lighthouse:v1.1.3
