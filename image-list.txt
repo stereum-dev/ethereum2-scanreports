@@ -27,6 +27,7 @@ stereum/lodestar:v0.19.0-9
 stereum/lodestar:v0.20.0-10
 stereum/lodestar:v0.21.0-12
 stereum/lodestar:v0.23.0-14
+stereum/lodestar:v0.24.0-15
 stereum/prysm-beacon-chain:v1.1.0-13
 stereum/prysm-slasher:v1.1.0-13
 stereum/prysm-validator:v1.1.0-13
@@ -99,3 +100,4 @@ chainsafe/lodestar:v0.19.0
 chainsafe/lodestar:v0.20.0
 chainsafe/lodestar:v0.21.0
 chainsafe/lodestar:v0.23.0
+chainsafe/lodestar:v0.24.0
