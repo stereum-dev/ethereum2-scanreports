@@ -16,6 +16,7 @@ stereum/lighthouse:v1.2.1-27
 stereum/lighthouse:v1.3.0-36
 stereum/lighthouse:v1.3.0-37
 stereum/lighthouse:v1.3.0-38
+stereum/lighthouse:v1.4.0-41
 stereum/init:buster
 stereum/lodestar:v0.12.0
 stereum/lodestar:v0.14.0-3
@@ -28,6 +29,7 @@ stereum/lodestar:v0.20.0-10
 stereum/lodestar:v0.21.0-12
 stereum/lodestar:v0.23.0-14
 stereum/lodestar:v0.24.0-15
+stereum/lodestar:v0.24.2-16
 stereum/prysm-beacon-chain:v1.1.0-13
 stereum/prysm-slasher:v1.1.0-13
 stereum/prysm-validator:v1.1.0-13
@@ -42,6 +44,7 @@ consensys/teku:21.3.2
 consensys/teku:21.4.0
 consensys/teku:21.4.1
 consensys/teku:21.5.0
+consensys/teku:21.6.0
 ethereum/client-go:v1.9.25
 ethereum/client-go:v1.10.0
 ethereum/client-go:v1.10.1
@@ -101,3 +104,4 @@ chainsafe/lodestar:v0.20.0
 chainsafe/lodestar:v0.21.0
 chainsafe/lodestar:v0.23.0
 chainsafe/lodestar:v0.24.0
+chainsafe/lodestar:v0.24.2
