@@ -30,6 +30,7 @@ stereum/lodestar:v0.21.0-12
 stereum/lodestar:v0.23.0-14
 stereum/lodestar:v0.24.0-15
 stereum/lodestar:v0.24.2-16
+stereum/lodestar:v0.24.3-17
 stereum/prysm-beacon-chain:v1.1.0-13
 stereum/prysm-slasher:v1.1.0-13
 stereum/prysm-validator:v1.1.0-13
@@ -81,6 +82,9 @@ prysmaticlabs/prysm-validator:v1.3.9
 prysmaticlabs/prysm-beacon-chain:v1.3.10
 prysmaticlabs/prysm-slasher:v1.3.10
 prysmaticlabs/prysm-validator:v1.3.10
+prysmaticlabs/prysm-beacon-chain:v1.3.11
+prysmaticlabs/prysm-slasher:v1.3.11
+prysmaticlabs/prysm-validator:v1.3.11
 sigp/lighthouse:v1.0.6
 sigp/lighthouse:v1.1.0
 sigp/lighthouse:v1.1.3
