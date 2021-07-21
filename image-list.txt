@@ -2,7 +2,7 @@ stereum/beacon-base:buster
 stereum/nimbus:v1.4.1-27
 stereum/lighthouse:v1.4.0-32
 stereum/init:buster
-stereum/lodestar:v0.24.2-16
+stereum/lodestar:v0.27.0-23
 stereum/control-center-web:1.1-122
 consensys/teku:21.6.1
 ethereum/client-go:v1.10.5
