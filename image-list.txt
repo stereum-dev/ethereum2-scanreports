@@ -1,6 +1,6 @@
 stereum/beacon-base:buster
 stereum/nimbus:v1.4.1-32
-stereum/lighthouse:v1.4.0-32
+stereum/lighthouse:v1.4.0-41
 stereum/init:buster
 stereum/lodestar:v0.27.0-23
 stereum/control-center-web:1.1-122
