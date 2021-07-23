@@ -18,4 +18,3 @@ prom/prometheus:v2.22.2
 prom/prometheus:v2.25.0
 prom/node-exporter:v1.1.1
 statusim/nimbus-eth2:amd64-v1.4.1
-chainsafe/lodestar:v0.26.1
