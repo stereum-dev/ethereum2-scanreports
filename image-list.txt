@@ -5,7 +5,7 @@ stereum/init:buster
 stereum/lodestar:v0.27.0-23
 stereum/control-center-web:1.1-122
 consensys/teku:21.6.1
-ethereum/client-go:v1.10.5
+ethereum/client-go:v1.10.6
 grafana/grafana:7.3.10
 grafana/grafana-image-renderer:2.0.0
 prysmaticlabs/prysm-beacon-chain:v1.4.1
