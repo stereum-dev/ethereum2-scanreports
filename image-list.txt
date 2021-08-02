@@ -4,13 +4,13 @@ stereum/lighthouse:v1.4.0-41
 stereum/init:buster
 stereum/lodestar:v0.27.0-23
 stereum/control-center-web:1.1-122
-consensys/teku:21.6.1
+consensys/teku:21.7.0
 ethereum/client-go:v1.10.6
 grafana/grafana:7.3.10
 grafana/grafana-image-renderer:2.0.0
-prysmaticlabs/prysm-beacon-chain:v1.4.1
+prysmaticlabs/prysm-beacon-chain:v1.4.2
 prysmaticlabs/prysm-slasher:v1.4.1
-prysmaticlabs/prysm-validator:v1.4.1
+prysmaticlabs/prysm-validator:v1.4.2
 sigp/lighthouse:v1.4.0
 attestant/vouch:1.0.4
 attestant/dirk:1.0.2
