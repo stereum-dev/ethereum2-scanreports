@@ -10,7 +10,7 @@ ethereum/client-go:v1.10.8
 grafana/grafana:7.3.10
 grafana/grafana-image-renderer:2.0.0
 prysmaticlabs/prysm-beacon-chain:v1.4.4
-prysmaticlabs/prysm-slasher:v1.4.4
+prysmaticlabs/prysm-slasher:v1.4.1
 prysmaticlabs/prysm-validator:v1.4.4
 sigp/lighthouse:v1.5.2
 attestant/vouch:1.0.4
